@@ -6,4 +6,4 @@ nu = datetime.now()
 # Skriv ut datum och tid
 print(f"Dagens datum: {nu.strftime('%Y-%m-%d')}")
 print(f"Aktuell tid: {nu.strftime('%H:%M:%S')}")
-print(f"\nFullständig information: {nu}")
+print(f"\nFullständig ttt information: {nu}")
